@@ -1,4 +1,4 @@
-                                                                                                          Respect for Everyone : Treat all team members with respect. Be kind in your communication and open to everyone’s opinions.
+Respect for Everyone : Treat all team members with respect. Be kind in your communication and open to everyone’s opinions.
 Equal Contribution : Each member should contribute equally to the project. Everyone’s work is valuable.
 Clear Communication : Keep communication clear and timely. Use the agreed platforms (e.g., Slack, GitHub) to share updates and ask questions.
 Collaboration and Support : Help each other when needed. We are all working towards the same goal, so collaboration is important.
